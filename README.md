@@ -1,0 +1,2 @@
+# AmbatuClick
+joki idle clicker
